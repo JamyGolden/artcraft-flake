@@ -9,12 +9,12 @@
   },
   "cadcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-FcPLCHNdkQkMZQeqojOAlKoqpKOHiIcmicFTsujy9s4=",
-      "macos-cli-zip": "sha256-3CA9+ekiXRq8CYHIL88wqTIoeL2IAJrQRXoSK3G7YcY=",
-      "macos-dmg": "sha256-ouN2F6pnXJVeHul9HvucPhzk3K7HBccIPWlc3T7yNrc=",
-      "x86_64-linux": "sha256-z41KqG0EbzTrdwrmzS3z7uF9HzsSklfxVYVDBGyVXMA="
+      "aarch64-linux": "sha256-5+eoBdaDQzczp3lRMmFjUG8gO9Xe5RX0ZaXFdWadP4U=",
+      "macos-cli-zip": "sha256-BkcobQbiv12p/RMD9IGWaWKtIktXtPp63yCHoeOH4ws=",
+      "macos-dmg": "sha256-UYyPON+FESrje2J3jWtLTT6F2/kiysVzfUdl1Qi3fuE=",
+      "x86_64-linux": "sha256-3zwuZoQ58EEFZLH6nSGCe7Zj6z0BcDkCxB8CucUnYZM="
     },
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "deckcraft": {
     "hashes": {
@@ -36,12 +36,12 @@
   },
   "effectcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-lnvlIisuVIC3saB0Pkc3mg+g7wGAF84xsu2kUEavAZs=",
-      "macos-cli-zip": "sha256-XaOttYHwzUntqpri7uqlBCbLGvuweUkCVR2z1xc90So=",
-      "macos-dmg": "sha256-2Ev6xj5WaBW0EzCc+S09tIzBo9LyC5SXQtRXNb21l+g=",
-      "x86_64-linux": "sha256-dvv8CprTQ5lwGhjv6xwXhVfQHQoPS0A1FPLaxdiHVy4="
+      "aarch64-linux": "sha256-7lBH0PbDq1/GE8GYSt6GIdVikawko0KzNYpsVM7EM/s=",
+      "macos-cli-zip": "sha256-jq4uHpwT4D0bwkYFAakNQ/xXCzfps4YpTAcg6xKq0PA=",
+      "macos-dmg": "sha256-c0camLUQWWvMqWxsBVZls2689hnTk3w+JG1SSa0EbPQ=",
+      "x86_64-linux": "sha256-ucss5o3WZFjMFkQ35DE3bpTjjjPjtlKfqP1F+M+WiTQ="
     },
-    "version": "0.10.0"
+    "version": "0.11.1"
   },
   "figcraft": {
     "hashes": {
@@ -99,12 +99,12 @@
   },
   "soundcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-W1FSRkvWo65sSL4CbYDgxODaWNWBpF/ktYA9b8+74AY=",
-      "macos-cli-zip": "sha256-pCchEumrbkic+rGxaXQfcKX8FRzhwbIwDNktZvpvnT0=",
-      "macos-dmg": "sha256-o2LrWkKEJiAQ92qOp8g46Iw9pxp5asJgBgTbDXZgpGQ=",
-      "x86_64-linux": "sha256-jXr75f5DPLM4t8zuCCAoXWzhv8jABtVRyohAwnqRGrI="
+      "aarch64-linux": "sha256-YR+EdO8EA9cd/UEVHXoDYxZsPrlwmZ+ZP/7QxYKnNPg=",
+      "macos-cli-zip": "sha256-QYUvBBWdZNYgVKnYmzX9kXfuzf21O1yLUoh9MdxM73E=",
+      "macos-dmg": "sha256-QiHDE9JavBqspR0UlaGXNbXjwkCmggxWZ3nG4LTDUyA=",
+      "x86_64-linux": "sha256-V6K4d21RiAzuaRGFaKOWwJ+sppSdy/UPGYedcdWW9cw="
     },
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "vectorcraft": {
     "hashes": {
