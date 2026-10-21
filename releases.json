@@ -1,11 +1,11 @@
 {
   "artcraft-launcher": {
     "hashes": {
-      "aarch64-linux": "sha256-DY3gzhAFHxF2O+4MDHzriGyEa6nEGFpLdUfnki8Uc3s=",
-      "macos-dmg": "sha256-hPe5WswinZqZf5HD0RDNNhMe3eIfR/SiHA8X0q08pDY=",
-      "x86_64-linux": "sha256-bLiTxWNeMPNWKRF8aZLh6hIOC7bBfwQy4sETh/OnhYo="
+      "aarch64-linux": "sha256-wsEuW0knkLFnUoviUDE37jS2YLw5+mL0oZEGkxGOyJY=",
+      "macos-dmg": "sha256-8g29bJ7Lz5mYq3ycvBRN2NRwHpodTOM660rScmMcs44=",
+      "x86_64-linux": "sha256-YS3yqZqgD2oFmPAH/WdQnqCK+yWuyVZRdq6BcQACPS8="
     },
-    "version": "0.5.1"
+    "version": "0.6.0"
   },
   "cadcraft": {
     "hashes": {
@@ -27,12 +27,12 @@
   },
   "designcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-i6KTrnjXbZkGhP5Ac4Lh+Ei9BrkfZZF1k6CJEdfILeE=",
-      "macos-cli-zip": "sha256-HBGoY3VbnrOCCchSG9RsQoiCYBefAWoSWzul0pPAy4Q=",
-      "macos-dmg": "sha256-f+dXgED7GzQLBj1RO2LPflMzUnRFMyeyh5mCIbtSdo4=",
-      "x86_64-linux": "sha256-nFeICInWtcOZxFC1Mhumw3yeVOWKwIFh14V6ERXYl1U="
+      "aarch64-linux": "sha256-ojL/zYnIQL3Mz8SRHvpDpiEcJtOaNBqRwHUJNZdDm9Q=",
+      "macos-cli-zip": "sha256-Cog1HX+C9x+MEeHDRkoSJa2c1IVUGRpkEbk+cj/wKF4=",
+      "macos-dmg": "sha256-UjlBPnft42luekpTtjs4TliXbHxQOZjK39XJPQfFdqY=",
+      "x86_64-linux": "sha256-SjcI+oeNr1GIqiumb9fNGGvzhpCmwVJG7IPYU+De65Q="
     },
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "effectcraft": {
     "hashes": {
@@ -45,12 +45,12 @@
   },
   "figcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-pwg4uS/TAjUTuH+GZ+QvitysY0TwHGjTOU1osdeRYDk=",
-      "macos-cli-zip": "sha256-XnvqAcnzPRPSrYA9/RC18LGBXhJIcNsJOR0cNgpY6JM=",
-      "macos-dmg": "sha256-FhKD7VdPB47ioiScPQfgWbyI5IgcLgghe1ffHu1gIl0=",
-      "x86_64-linux": "sha256-8932GU0rvVI80xld+Q+izVeC05Rvx4M7f2v4j9o3kI0="
+      "aarch64-linux": "sha256-O4ZHKrUTLPLdToyhblzbkpRuM9KHcb/Hxipu7GOOK78=",
+      "macos-cli-zip": "sha256-yJhQ3IeAS2JU1dGGk3vYOMnxpeJEtDXfSXcjCaSzVb0=",
+      "macos-dmg": "sha256-T1yt1gzU1lEuwRRPnDqv/HHqKinCDYfVG6150Iev98E=",
+      "x86_64-linux": "sha256-w1DcWufjDIWgY1epTP32BPKybzpOtje0Tw94v/fDSYU="
     },
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "filmcraft": {
     "hashes": {
@@ -63,12 +63,12 @@
   },
   "gridcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-DUyIKs3P1LVyGm3R7HTJjOD7Fg0CMZc6aUddpuyejn0=",
-      "macos-cli-zip": "sha256-Vk99CHuIC38WqmCuUKHL6dN7TtRJ6ymyZG6lhEebqwc=",
-      "macos-dmg": "sha256-JgYi/A4LGMyIFi8MIpR1m1j4oy76Q8pr9WnotIruKiM=",
-      "x86_64-linux": "sha256-SgKeINqGutRnBjOc5FFqIERcExwNgvahFHciCMXYMbM="
+      "aarch64-linux": "sha256-Hb2NbAU/nBTScDhzgJq22C1w+cXvIULQRnM9zj7VqiQ=",
+      "macos-cli-zip": "sha256-djMn/ZJpILmnjSe8i68kgl65jonMJtT7LBJddT5OtFU=",
+      "macos-dmg": "sha256-eQJtZiVc2x1wiEMnWVpzykPi9fENCrS/IkB5cN6op0s=",
+      "x86_64-linux": "sha256-gRSC8uS7ZvjDXVm3nlMuHQgS02K6wk5j/W3cCETWa8k="
     },
-    "version": "0.8.0"
+    "version": "0.9.0"
   },
   "lightcraft": {
     "hashes": {
@@ -90,21 +90,21 @@
   },
   "photocraft": {
     "hashes": {
-      "aarch64-linux": "sha256-gpeA0zHmRD3fG62pMu0H4OncVBshOydfPDoyCWB7x8c=",
-      "macos-cli-zip": "sha256-V7K/plFL65+FF3+7aDL4qjrr7ghWHXjVSjGCxAQiCSc=",
-      "macos-dmg": "sha256-Ly4hoBGejmOysvk9I4gXs3J6+Icgq54rbesUWJJ6Ox8=",
-      "x86_64-linux": "sha256-xdRVeF2cLq9pW/jmMnxNbSOjnduVamEU8MW2Qyb5hOE="
+      "aarch64-linux": "sha256-35l+A6p1Ev48pCwqiRCLtaTtK+z1lAI9SGqO+fCZOZw=",
+      "macos-cli-zip": "sha256-EfhwzWdzCS9Eb8fOWKNm5UrJGQ6Ro60Zfe7EkzWyC2Q=",
+      "macos-dmg": "sha256-kRTL9a2i+fqRtFZtBTJXkky9UOR3sgfqP99xiKTs+9M=",
+      "x86_64-linux": "sha256-DhSZtJm4vYCpY44xXA8ckn0GBqxc1Yv72kNPUCXICkk="
     },
-    "version": "0.10.0"
+    "version": "0.11.1"
   },
   "soundcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-YR+EdO8EA9cd/UEVHXoDYxZsPrlwmZ+ZP/7QxYKnNPg=",
-      "macos-cli-zip": "sha256-QYUvBBWdZNYgVKnYmzX9kXfuzf21O1yLUoh9MdxM73E=",
-      "macos-dmg": "sha256-QiHDE9JavBqspR0UlaGXNbXjwkCmggxWZ3nG4LTDUyA=",
-      "x86_64-linux": "sha256-V6K4d21RiAzuaRGFaKOWwJ+sppSdy/UPGYedcdWW9cw="
+      "aarch64-linux": "sha256-/F+8q7bMv6nhPWRZEzKvaTkkKinMYtvFUdAgVKpxL4g=",
+      "macos-cli-zip": "sha256-G4LH7BdnffM87y338iYyF5a23vbBDZ74/9lTrfnt5b8=",
+      "macos-dmg": "sha256-U7Q012KwpNU541Qo60g4sD/RI+M7+5Pdbd/fsnSJ5Pg=",
+      "x86_64-linux": "sha256-RkGNVv782s0obmppb7Uj9X9UXV8UHEb8crpzc4trbHA="
     },
-    "version": "0.8.0"
+    "version": "0.10.0"
   },
   "vectorcraft": {
     "hashes": {
