@@ -27,12 +27,12 @@
   },
   "designcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-G7GD8uOjsqB0j6ZX8Wd8gphqdmZpN51PMjncPJjiqQU=",
-      "macos-cli-zip": "sha256-XH9x9WAvkPLnM0kz0sbqRD+ZgWGCi3mS7M6d6E0gCPg=",
-      "macos-dmg": "sha256-2J0bsQG0d8tSH9E1Ufe6wqkGYu2D5cz0VXHpZ4NOQyc=",
-      "x86_64-linux": "sha256-u2+c7EBGVTUCZumO4Q2bWhVFB+2ZitevR7JTNa+tGHI="
+      "aarch64-linux": "sha256-KeaB9g+FMduOIKORAqQctN2ukjQ8x9GkyCMIGYURWO0=",
+      "macos-cli-zip": "sha256-B/ck1jkfFDjLLWJE4zIXpjMopOcWVMzEJXrHnjpHcwc=",
+      "macos-dmg": "sha256-Tl9Yz77tcOVczg7DD3gQYJL1BdIMp9xyGhyu+BlAjIY=",
+      "x86_64-linux": "sha256-o9cXIQJaGx7HLz3c70CQT22+TYJQNYbQNGXMWvH8uYY="
     },
-    "version": "0.17.0"
+    "version": "0.17.1"
   },
   "effectcraft": {
     "hashes": {
@@ -81,12 +81,12 @@
   },
   "pdfcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-ZsNCCEE3GGH8OMLoySZgWF0P4/t4LQgAkMnAi/oXfvI=",
-      "macos-cli-zip": "sha256-tanU/CURYwneNhP9850mEzuafMdeNcH6U9uDCNOz/3c=",
-      "macos-dmg": "sha256-LHvg6DAOO62TzNOQ6uFuw0K82TWxLcKC/aPwWJvHznI=",
-      "x86_64-linux": "sha256-yzZlzEXMeqa6AchouffGncTYAL71LUHP/qi/UDfE620="
+      "aarch64-linux": "sha256-e5kgudjEzLw2LNfozG+Tn+ryP6x4sai4h5HY1Mk/8Bw=",
+      "macos-cli-zip": "sha256-CGsjOtfCvcFyv4wONZhV/efGvdaaW9Ge+0fwiSDP630=",
+      "macos-dmg": "sha256-VfhL5WOI1p8k3yJSL21CT42OaVKdtmnOCOoZhFXgjOs=",
+      "x86_64-linux": "sha256-Qaa5+xaXDNNhDQXZhZlwAuQZv1J4+Gr2q0gHg/ib8fw="
     },
-    "version": "0.18.0"
+    "version": "0.18.1"
   },
   "photocraft": {
     "hashes": {
@@ -117,11 +117,11 @@
   },
   "wordcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-GmDwoablab6jcBQVferAxATp+lgN991mWZvIhpKLmgY=",
-      "macos-cli-zip": "sha256-kv6ypOlwthS9jHDCu6sCodYhvPTHLqKth0T5Bf34etg=",
-      "macos-dmg": "sha256-4Hw/WDg+0eNFWwuB6V9NEktr05U2UHQoBoaRjQRHiBU=",
-      "x86_64-linux": "sha256-uqzxgVgSSrw9RdxEhb/Hel1xf4CsULgGk7ZQHCZpjl0="
+      "aarch64-linux": "sha256-HRFPe2cBeKHlvwJ5gNqw1PnBKVou7/0LetsUWM6kCag=",
+      "macos-cli-zip": "sha256-iFdJIxOHqOghK1xnR9Qyz4PEmyJ9cCH/l/MrR0AQIXQ=",
+      "macos-dmg": "sha256-juWUNjKOJFGDhsbPFAf3xsCB/KynA85eUxCTivfasS8=",
+      "x86_64-linux": "sha256-jG/KOAnqGsgWjE19k5LK3oSlD1QBi+H4gSG6TswEpVI="
     },
-    "version": "0.15.0"
+    "version": "0.15.1"
   }
 }
