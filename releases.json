@@ -1,11 +1,11 @@
 {
   "artcraft-launcher": {
     "hashes": {
-      "aarch64-linux": "sha256-gaYGlDE6mGrMxdYf5FwsxXdQSFt3Y2WgxEQGxS7oAZI=",
-      "macos-dmg": "sha256-OlvCgE+1wlb0CcCJpYxsq0igPxp+qPA2SR/AUBwqgzE=",
-      "x86_64-linux": "sha256-u/KxuE9Su66B+HIwNMzi1YYvKGZK2yh4f7EeHUuTuYo="
+      "aarch64-linux": "sha256-zsl4X7/QyWyJXbn1LpXzGdkdldElTnEJXqXtweR88Ps=",
+      "macos-dmg": "sha256-Hb6/C6dV+SjfSmSxuYv+VYBZXnZZi1TuXL/aPi9yBgs=",
+      "x86_64-linux": "sha256-YuE5Wqh048xPx2BIKvdVTYQIc1/m0v/C1vbUwHDrwx0="
     },
-    "version": "0.17.0"
+    "version": "0.18.0"
   },
   "cadcraft": {
     "hashes": {
@@ -36,12 +36,12 @@
   },
   "effectcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-smb0cTyPhg3SvIR5MEE8Ci+gf4LD83UqQMptDPAEZ7E=",
-      "macos-cli-zip": "sha256-sGKbz1ytgpKvXHNYRimR2el/OL+MwpkMgDJDv61OfeI=",
-      "macos-dmg": "sha256-Q0tdZG2HTzdD692SLNNUD/anWLryfsyeGrNFXY9kdow=",
-      "x86_64-linux": "sha256-E9mrI7db57inF3XMlALg+DIoCxZhR0ZyglV+nGoh09I="
+      "aarch64-linux": "sha256-//jtdSuQ1jweSR9sxtJwD8cSL8FeH6tnQAAGUFK+8/4=",
+      "macos-cli-zip": "sha256-QF6jourSSuTav9o784P8Ybqmwq1EFGZutBnZWU35RyE=",
+      "macos-dmg": "sha256-EHA64LiyeSQeeoe2m/pa4CE8whpnoE6peOhDCfbo4vg=",
+      "x86_64-linux": "sha256-ozDRQG/ecdB6xVrTf+gfXeN+x+p8p8O5+gKqzQRQLbE="
     },
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "figcraft": {
     "hashes": {
