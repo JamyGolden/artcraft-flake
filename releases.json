@@ -1,127 +1,127 @@
 {
   "artcraft-launcher": {
     "hashes": {
-      "aarch64-linux": "sha256-zsl4X7/QyWyJXbn1LpXzGdkdldElTnEJXqXtweR88Ps=",
-      "macos-dmg": "sha256-Hb6/C6dV+SjfSmSxuYv+VYBZXnZZi1TuXL/aPi9yBgs=",
-      "x86_64-linux": "sha256-YuE5Wqh048xPx2BIKvdVTYQIc1/m0v/C1vbUwHDrwx0="
+      "aarch64-linux": "sha256-xsQMaRFIdD5K8udVgeo0MXD14bca6r/ic2kocPhSmxs=",
+      "macos-dmg": "sha256-oLps6Vog7fdnJnI3bLLA5UfTSxqGd8elIGz99+8D/2M=",
+      "x86_64-linux": "sha256-hf8NLgdVNZfD0O5Qb9GK4qRoQG00kfvjcZ+ltryePKM="
     },
-    "version": "0.18.0"
+    "version": "0.19.1"
   },
   "cadcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-Z+rPskPpGmnfx7P3TqYPHmfl+8tIlBWRQ3dkmOUkv7M=",
-      "macos-cli-zip": "sha256-bblWWl/sa6zfzL9iYoqJ5EMMnbtcweuF2773Hjbknak=",
-      "macos-dmg": "sha256-06PC3F/plFur+qQgcWYCgSw8POyLD7OrJQLvXni5YLM=",
-      "x86_64-linux": "sha256-plTfjD5EfGLEkMCoqtjEKp+vqwEMpNJbw1BO1Fs8j1E="
+      "aarch64-linux": "sha256-sUnbS99h0TX8tAznNhgox1sY1vP3EOFlyhfzCBnSMhI=",
+      "macos-cli-zip": "sha256-J1QFWk8xjQKPucx6rAqYmH0hwrXCDwecov6xRp8o+zs=",
+      "macos-dmg": "sha256-ye8c8CI05qXoVCh6ZP4xStbVMieRXDxmZPpBYeKh/nA=",
+      "x86_64-linux": "sha256-V7bxtBtPPFQqgvEDIC7Rp3lEDl/40lwI72ar2hqMsbk="
     },
-    "version": "0.19.0"
+    "version": "0.20.1"
   },
   "deckcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-I8qUOEvQipdC66F7Fis8tI1SDqyAYo/CO3mlUaFcNwY=",
-      "macos-cli-zip": "sha256-mrmfvPz4NlVG+YCKNCebvfen7e4CQiK9ojjjB+QIG7w=",
-      "macos-dmg": "sha256-32GlQpfwIiST1dk2w9W+Bfk4ALXw2NES2AXFQuNbiEg=",
-      "x86_64-linux": "sha256-phoFCVpSqAmQqomQtEcQBVPpnI+m7ch1SqUnQKGm+bA="
+      "aarch64-linux": "sha256-P70AXOOCyFOtBW3Ke5N4AvwO9rhWTspamaUrZwwVnpQ=",
+      "macos-cli-zip": "sha256-EJkvc8iKTANh3Q/sOk10kHMf+z6pZY7iJ0s5bjNBrwA=",
+      "macos-dmg": "sha256-MyHRH2NTs/+d4yjyFAfXUn8fkCnIPatOOrc09RbToFU=",
+      "x86_64-linux": "sha256-W659VWZjhiRBHvlo8lMqszWNwoCIQURYPkl8VjHbiiY="
     },
-    "version": "0.17.0"
+    "version": "0.18.1"
   },
   "designcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-yYMaim+Lh+HEOahVLbJp+9azi/ksKSZpIY4C5hIvTLw=",
-      "macos-cli-zip": "sha256-MCRbpUsCZDfcVWOjrUg8Ehe3zL4Zhx3HJhGHMR07e3Q=",
-      "macos-dmg": "sha256-OfKkX4JUFsRqAyjNJgA6hrjwlj/so2xEa/sg4LgZC3g=",
-      "x86_64-linux": "sha256-UFVTH+n2Dk2mETdw/s8n37A5hPgx+k7XBzC+FWoxaGY="
+      "aarch64-linux": "sha256-IIw89zVl+nZcR+62AflP7EJegX0VzCEx36HB6+LQZiA=",
+      "macos-cli-zip": "sha256-oXh4OzHhr0j3rytRZWjshVN6SE37zFBXsPA8re6QwKs=",
+      "macos-dmg": "sha256-9Fsr9VQ8HYw30JqXHplCDW7z2XtuvjPjGzbSo8OesMI=",
+      "x86_64-linux": "sha256-6RYw1M31eMyx4vOfiOJOhSDxSC1RrkcUZX7kceIjf0Q="
     },
-    "version": "0.19.0"
+    "version": "0.20.1"
   },
   "effectcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-//jtdSuQ1jweSR9sxtJwD8cSL8FeH6tnQAAGUFK+8/4=",
-      "macos-cli-zip": "sha256-QF6jourSSuTav9o784P8Ybqmwq1EFGZutBnZWU35RyE=",
-      "macos-dmg": "sha256-EHA64LiyeSQeeoe2m/pa4CE8whpnoE6peOhDCfbo4vg=",
-      "x86_64-linux": "sha256-ozDRQG/ecdB6xVrTf+gfXeN+x+p8p8O5+gKqzQRQLbE="
+      "aarch64-linux": "sha256-rRDERQZWgXYN6TUxF8bixFFn6rzM8O0ZveL1xayQhpU=",
+      "macos-cli-zip": "sha256-J4HtoZQ3KtR/TAx9+LHThQGj6Qu0mSgvV+lZioWVhnM=",
+      "macos-dmg": "sha256-ItARHR2qpxQu5iZqK4F00vTTdcTBLg38QKBNs9+zWFE=",
+      "x86_64-linux": "sha256-XOA5NpAUQif6kYboIwitY4pu9tn5dsmW5tA7W1G2Wns="
     },
-    "version": "0.23.1"
+    "version": "0.24.1"
   },
   "figcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-5yVTaMj4n44y2mODUAFhoL0+vXn8Uotk3Vn9QVqUWnU=",
-      "macos-cli-zip": "sha256-Qsp+hwx+nC3VdN4Xbx4GQOAWEj+D0yRLUB5g+QXzpQo=",
-      "macos-dmg": "sha256-Wb1SYiXxa7av00wqw7uIB5FpEi9qRQYYHWBpECY8eYs=",
-      "x86_64-linux": "sha256-68i/pNoCaGDP+CHSAk1vUXBKxpR4lp9bKWEdu5am5GQ="
-    },
-    "version": "0.17.0"
-  },
-  "filmcraft": {
-    "hashes": {
-      "aarch64-linux": "sha256-fp6FcyW+K2GXtX4qIfz4+vRfpCZEx57r7R+3NMP4vtc=",
-      "macos-cli-zip": "sha256-FGFnnMvvEuPzQ+8kzOSLHtRzu2KF2orNs/jCNoy3080=",
-      "macos-dmg": "sha256-MaM+5Gs5rZr4wQZ0x1ZRTHHTE7seaLVDXJ7NcbRr7FQ=",
-      "x86_64-linux": "sha256-dhSTQ8GXALpqyQX96KAZ4JF9BlB/QmpZODltl6HKISQ="
-    },
-    "version": "0.19.0"
-  },
-  "gridcraft": {
-    "hashes": {
-      "aarch64-linux": "sha256-lFVLOj1KqHrNW/7DaVfsw9Sc8xcADS+MKL+fpkTGLU0=",
-      "macos-cli-zip": "sha256-TZtu9RildAAHqIvK0VUcCb2Q8MaCmxpGIjZNhbkvVVY=",
-      "macos-dmg": "sha256-NdlrpvqLv5CWL7zpdrkgaIfWepOCfha79Dj4qRUUDdM=",
-      "x86_64-linux": "sha256-aSBf1y5I6D52PFPI9so+3AHTi6i6DRbisYSpyFikzV8="
+      "aarch64-linux": "sha256-u0/lG0Qkli3rF1AwzQVIWxI40TPdwJ8RfK7gaHB6LqY=",
+      "macos-cli-zip": "sha256-+Ewpk1PfBibAk9KgPMpYrlWonXbhzoOpif9l+sjd6qM=",
+      "macos-dmg": "sha256-vA/UHiAVbE388bkcBXdubVYAlZlY/90DuAHt2k0Sd+U=",
+      "x86_64-linux": "sha256-jHZKpXlYqkY0w/0taHk6f4jQsyZtH0pIe3inB607JRM="
     },
     "version": "0.18.0"
   },
+  "filmcraft": {
+    "hashes": {
+      "aarch64-linux": "sha256-zc49gyYgx89xUOZgn9mK2XAufUxX+CeqtWLofYFuoT8=",
+      "macos-cli-zip": "sha256-FlHZ3vtU+FPL1pAWQou59yp78m1W5HVbjip5U1/QrII=",
+      "macos-dmg": "sha256-VyLw8hypZYPuJ9/Yi64j4KSmq4eGKmwACCyIxcdZ514=",
+      "x86_64-linux": "sha256-Pk/qPLjUc+aPGJoKh5K6RhYPq1B62rOriSAHP9QfJPo="
+    },
+    "version": "0.20.1"
+  },
+  "gridcraft": {
+    "hashes": {
+      "aarch64-linux": "sha256-wFNzo2bm3e0yATgMuCs6ChN1aaGxItN8Gw7PAcvUa3U=",
+      "macos-cli-zip": "sha256-fCiV660LvZK2XGIrp+Iq2lbgSYBl39vUMxEboeIl64o=",
+      "macos-dmg": "sha256-1QFl54uONau+aKp8bzbCkAI97GUNiqeXrCNHqTD2wZc=",
+      "x86_64-linux": "sha256-jZe7otW7AP1p7VUGSFLB/ZFN5A1ezVXKAcjfgbgolG0="
+    },
+    "version": "0.19.1"
+  },
   "lightcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-ktOf9OsgfkHa/kux7cVwigSGcrKpJQCoQL7nhp1QT4U=",
-      "macos-cli-zip": "sha256-tzkAxqO7cdWxcg6ed5vVDsVRq/sCyVLSntN1alZL5gU=",
-      "macos-dmg": "sha256-3bNMjIe7Ba0sKVBS4wJjY2hteZWwi8/lDmzZimtnppc=",
-      "x86_64-linux": "sha256-jLXu2CWy3Z4PpCaAEp0+WqcY8HGW1nzF0FdB8OapzCU="
+      "aarch64-linux": "sha256-I0cddfSYFPpzTZSpkNHmxhRBrvBAPnuUVxsJ6fsY9Rs=",
+      "macos-cli-zip": "sha256-epdMACVNKpCfw8YxM/14rhatKrUDmhJphY61ClPg68o=",
+      "macos-dmg": "sha256-3TzVtU3w19ekV+APP61+VQgT1N+KjNqhpr3PcCH7Kz0=",
+      "x86_64-linux": "sha256-fn2lU96hACaKBY8TXHxK0fT7drTYJC4U9w8W7YkllYA="
     },
-    "version": "0.20.0"
+    "version": "0.21.0"
   },
   "pdfcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-PXlvqtW29RBGqIAMYolPftbKs/e8eFC/fntHxh2gfjk=",
-      "macos-cli-zip": "sha256-3RD4NzGMP86B+JOpiN4T79e6S+leKB8nfNfCMkeqoSI=",
-      "macos-dmg": "sha256-9EvqFGb8tpAu/7rX6CT+WacAd8c+vZd+FOFmWFxEfOY=",
-      "x86_64-linux": "sha256-Gg8px6auBJFhJiMdhDsuqDaiG42wny70FpUQFaQ36Lw="
+      "aarch64-linux": "sha256-HNeaGE1YqiOS+9wAdWDjk5h42W8SssBslvTzhfxhPQk=",
+      "macos-cli-zip": "sha256-xX3qdM2DKQ5am2cDaoBPRt2nZb8+q/m++5MUkTNy6D0=",
+      "macos-dmg": "sha256-wYwT6k7a79vzzyMfhRIxqK5RzxUHdy7aaTtZF0y6pq8=",
+      "x86_64-linux": "sha256-eajHbiOtbmcd47hWpHaTavwAD4qn/v/xkNQ95i+jW6E="
     },
-    "version": "0.20.0"
+    "version": "0.21.0"
   },
   "photocraft": {
     "hashes": {
-      "aarch64-linux": "sha256-EX1bptSlLL4tKEx4poLaQgBjp7RgDaszJUWyu3I5o2o=",
-      "macos-cli-zip": "sha256-YOW/HmieWKgAdjhn++0ZO3KX1jZrvs5XtreKvZrah1s=",
-      "macos-dmg": "sha256-AnWW3LE9sMDXSTFcBSSTv1h4hunQga+lfLxldaTN5uk=",
-      "x86_64-linux": "sha256-7t6vpGdd+9HyNR5r+kuC9URTaU6zbaG71cqLv19U8gI="
-    },
-    "version": "0.22.0"
-  },
-  "soundcraft": {
-    "hashes": {
-      "aarch64-linux": "sha256-SI7H68C+Tz8nT7BY5NP+/WSMPphNK5rfzclp7r2vfzw=",
-      "macos-cli-zip": "sha256-0L0ICCKS+XLjQ1g030N/XZyLj0kTWGE4UJ0eHAq32YY=",
-      "macos-dmg": "sha256-lLZJUDtoxwsEjxLleOhZvuUcp9cY2wsC+VWgayipaW8=",
-      "x86_64-linux": "sha256-iaKb9Iwpnu5ZPXzWhLIchIPKKHq8GWZXrj+Vmh68GK0="
-    },
-    "version": "0.19.0"
-  },
-  "vectorcraft": {
-    "hashes": {
-      "aarch64-linux": "sha256-bNVLdqwKwF/IhCtvsTorOZL67EmdxJewkCedoK/qJeY=",
-      "macos-cli-zip": "sha256-vqt4TClxyqf9WrSAWOKvacPIv3bvir+3jja99bdt7iA=",
-      "macos-dmg": "sha256-i+48VClIfnCPlUacZWj3UMcA+XuGSDpvbL/Qdpslvhs=",
-      "x86_64-linux": "sha256-B8JKYJT7RXxmW5WEjVW/vQVGA1S8DqybTsn5RnqLHjE="
+      "aarch64-linux": "sha256-LOiXgpLTFI4YUmtUC20M9eqbmkt4LTRcyk08A+i6dRw=",
+      "macos-cli-zip": "sha256-S1zmRc5oKWCvu+znbRiPUexYUA8+1S8b6w2NUSHw+Xc=",
+      "macos-dmg": "sha256-jKdh8+mvTZMsxu/dbsv6IhKBU7owzOlVVHymJW5hUW0=",
+      "x86_64-linux": "sha256-mFjuI0hU98OQ8+q0c0rqUxAMyRLCyNzqoClCe3XdIvg="
     },
     "version": "0.23.0"
   },
+  "soundcraft": {
+    "hashes": {
+      "aarch64-linux": "sha256-1dp3ph6C05OWPlFVk3jvPQvtFQKjjnxuJyyS/GOlLeg=",
+      "macos-cli-zip": "sha256-J4TyzVnFb33Y0yUaz/V1GLKGErWFjjfXEvDqWFEde8s=",
+      "macos-dmg": "sha256-u3FQulfg8SjLC9G+3K7K2Whu6nxdIP0xwf/CTX0Tz+Y=",
+      "x86_64-linux": "sha256-zoR0Rz4+f+sidq8E/yBzLtY5EFXxiJE3eYNPUU7hpkg="
+    },
+    "version": "0.20.0"
+  },
+  "vectorcraft": {
+    "hashes": {
+      "aarch64-linux": "sha256-3WF1ZjFsr3A4hN4e2/EJ9w3wPrlJ75NUYj6u1agivD4=",
+      "macos-cli-zip": "sha256-yUhHuZSw1tdb8clI2MHdg0xTg4BgZlBfC6BVcZEH4pY=",
+      "macos-dmg": "sha256-8aBHEnN0La0NTTeTS1pgzXWuFj2OXhuM83OaRxl7rxI=",
+      "x86_64-linux": "sha256-nGFxygB6b4NcNotZL+nukMmF1lBX7cnc0rxMTvxQrSs="
+    },
+    "version": "0.24.0"
+  },
   "wordcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-wXLcUM5NiyYuSfnw70uk+YjDvaFmnDe53Wlk5GyeVts=",
-      "macos-cli-zip": "sha256-7bc8hWJUHfRIiE/N3ANUCYCkpkk502OrkLWaCLlbFNA=",
-      "macos-dmg": "sha256-vl2JojkFw6kd9NWPAPgnrAaqjFDL60Hm59n337hkpYo=",
-      "x86_64-linux": "sha256-nHRMDDGjziXfgmgPx15kXWgoRvrMvhA/T5GnWLGfNoc="
+      "aarch64-linux": "sha256-P0r8BZg1c3itivmy43osFx9t1HTJIGyc8M9W6mhiWe0=",
+      "macos-cli-zip": "sha256-NDl89vz3PuiujVPKsI+9/CEyYtu2dTwpZeu3zeN7hhY=",
+      "macos-dmg": "sha256-ifbgqRD4rVqBXYAkx5Mk0gW1b80uBd7tAQ6QFvWBPew=",
+      "x86_64-linux": "sha256-MSoFfUbdgFl8EtzP0Ql84l7epAuqrrULy28BrBrrrbU="
     },
-    "version": "0.17.0"
+    "version": "0.18.1"
   }
 }
