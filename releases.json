@@ -27,21 +27,21 @@
   },
   "designcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-IIw89zVl+nZcR+62AflP7EJegX0VzCEx36HB6+LQZiA=",
-      "macos-cli-zip": "sha256-oXh4OzHhr0j3rytRZWjshVN6SE37zFBXsPA8re6QwKs=",
-      "macos-dmg": "sha256-9Fsr9VQ8HYw30JqXHplCDW7z2XtuvjPjGzbSo8OesMI=",
-      "x86_64-linux": "sha256-6RYw1M31eMyx4vOfiOJOhSDxSC1RrkcUZX7kceIjf0Q="
+      "aarch64-linux": "sha256-CszzA9olsOGtKwCk2BLekgekX+wjbBlCHZpATJ0pHdY=",
+      "macos-cli-zip": "sha256-gUikLik7qagzUVaK2ThBC4hoSVlSZ5ZI9wGK1c0kXPM=",
+      "macos-dmg": "sha256-mWTRNVbH4PA6v29Ksgveip1snbdE1NPMbGd1OGIGTwA=",
+      "x86_64-linux": "sha256-IR50ufXO5b/DzbRpg9C9sf29CRZL/YB/T/cHBpNdQK4="
     },
-    "version": "0.20.1"
+    "version": "0.21.1"
   },
   "effectcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-rRDERQZWgXYN6TUxF8bixFFn6rzM8O0ZveL1xayQhpU=",
-      "macos-cli-zip": "sha256-J4HtoZQ3KtR/TAx9+LHThQGj6Qu0mSgvV+lZioWVhnM=",
-      "macos-dmg": "sha256-ItARHR2qpxQu5iZqK4F00vTTdcTBLg38QKBNs9+zWFE=",
-      "x86_64-linux": "sha256-XOA5NpAUQif6kYboIwitY4pu9tn5dsmW5tA7W1G2Wns="
+      "aarch64-linux": "sha256-pKlsjbdwMKsrLCQYNhrr70TtspeUtcBks7jIEenqpSM=",
+      "macos-cli-zip": "sha256-9JjkB6gva6CAZxYAJTAeZHI3Bu/EXJY8SVoPf+14yP8=",
+      "macos-dmg": "sha256-xUV5Mypm2LDzueAdinEgOVFu7Z9iS96c7+bRNLPK7Cg=",
+      "x86_64-linux": "sha256-byn/fgNZkJ/h2/b9PP2EMKA2I0m2EsXrLPyP7nueJ2A="
     },
-    "version": "0.24.1"
+    "version": "0.25.1"
   },
   "figcraft": {
     "hashes": {
@@ -81,12 +81,12 @@
   },
   "pdfcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-sI7+QWwdpFCwSz5OxfA4nXHXWA9DmPntoG0z0EcTx3A=",
-      "macos-cli-zip": "sha256-M3qfZEdEtX4Q3kHFc2blPFzPiECk1dxzIrF7m4P9wvo=",
-      "macos-dmg": "sha256-Gtyb89MZ5wfpJHAE2wWjKgWWNONxD+ebwU+S9onKTUo=",
-      "x86_64-linux": "sha256-wpGekETv/eMY5mgHrSohu7dKlVWzwLmfmtDEDPYc4l4="
+      "aarch64-linux": "sha256-zhN3JlUBWOIsiHy49xAB47KdF0Gup0kuDw/0kFTi/gM=",
+      "macos-cli-zip": "sha256-2biogHCJXm1czzzFPR3jU2IrYL2K+ZPhw5WbS+HK8No=",
+      "macos-dmg": "sha256-rUXKUqeTx82huuGstnV7XuEvB7+uwizkNE5eVGA0BjQ=",
+      "x86_64-linux": "sha256-qJk/nuluh6zOz5CvQib/YKhLnheHrp/Y+kj/4Tlrw14="
     },
-    "version": "0.21.1"
+    "version": "0.22.0"
   },
   "photocraft": {
     "hashes": {
