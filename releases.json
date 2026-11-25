@@ -1,11 +1,11 @@
 {
   "artcraft-launcher": {
     "hashes": {
-      "aarch64-linux": "sha256-qSrKhFZiShDxQ5ikMJ5NQk0amCA5k6Ki2UhBBNfW4t0=",
-      "macos-dmg": "sha256-vg6ZAQulYNrjOZNhlnPQMWg+NbIfCza9aN7pkOIf18s=",
-      "x86_64-linux": "sha256-Oamut3+FqwbWVUCxlPFYLsjCZSn34QqMnWwH/yGAtm0="
+      "aarch64-linux": "sha256-wwsTNsP7gFmDGnQ2g7zTMJIgTkphoGet5gAE3c5aJpg=",
+      "macos-dmg": "sha256-TTeBuEVzTWJ4WtLOFdxeNiWQV4UZymmWmRrU1f7qRy0=",
+      "x86_64-linux": "sha256-KRNX6BfugdkadTIxWCaVk4rVrQO3+b837oWZGPBGqE0="
     },
-    "version": "0.19.2"
+    "version": "0.20.0"
   },
   "cadcraft": {
     "hashes": {
