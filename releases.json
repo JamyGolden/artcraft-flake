@@ -1,11 +1,11 @@
 {
   "artcraft-launcher": {
     "hashes": {
-      "aarch64-linux": "sha256-wwsTNsP7gFmDGnQ2g7zTMJIgTkphoGet5gAE3c5aJpg=",
-      "macos-dmg": "sha256-TTeBuEVzTWJ4WtLOFdxeNiWQV4UZymmWmRrU1f7qRy0=",
-      "x86_64-linux": "sha256-KRNX6BfugdkadTIxWCaVk4rVrQO3+b837oWZGPBGqE0="
+      "aarch64-linux": "sha256-iCo+2OhjO8MVOpVDWiuNj5Wqgox4kZ0D/yx+L2fJqXo=",
+      "macos-dmg": "sha256-w8P0pn2xPtV3tMPlGTRliJt+oPHhtPp/wWVGMYfpwLs=",
+      "x86_64-linux": "sha256-LA6VnTfqrJKJTjtZApjplQpP8kw4VEVTBQjKKvfBKl4="
     },
-    "version": "0.20.0"
+    "version": "0.20.1"
   },
   "cadcraft": {
     "hashes": {
@@ -18,12 +18,12 @@
   },
   "deckcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-P70AXOOCyFOtBW3Ke5N4AvwO9rhWTspamaUrZwwVnpQ=",
-      "macos-cli-zip": "sha256-EJkvc8iKTANh3Q/sOk10kHMf+z6pZY7iJ0s5bjNBrwA=",
-      "macos-dmg": "sha256-MyHRH2NTs/+d4yjyFAfXUn8fkCnIPatOOrc09RbToFU=",
-      "x86_64-linux": "sha256-W659VWZjhiRBHvlo8lMqszWNwoCIQURYPkl8VjHbiiY="
+      "aarch64-linux": "sha256-IOuNgoR+GonPwm61uATIQG5m4MZOK/xgEjb0rQRvayE=",
+      "macos-cli-zip": "sha256-EoWxSCPNQT7ipma1Afi6UHbOK6BDk4FDvAS/Juxb8Og=",
+      "macos-dmg": "sha256-pSM/KLAxt07cSgffKgBo1DuCzK39rIZfFFdl0oss50Y=",
+      "x86_64-linux": "sha256-7HWqrvEKbcSBP36/D3/Y+YBSDFs9BRuj12IEyeXXb+o="
     },
-    "version": "0.18.1"
+    "version": "0.19.1"
   },
   "designcraft": {
     "hashes": {
@@ -117,11 +117,11 @@
   },
   "wordcraft": {
     "hashes": {
-      "aarch64-linux": "sha256-P0r8BZg1c3itivmy43osFx9t1HTJIGyc8M9W6mhiWe0=",
-      "macos-cli-zip": "sha256-NDl89vz3PuiujVPKsI+9/CEyYtu2dTwpZeu3zeN7hhY=",
-      "macos-dmg": "sha256-ifbgqRD4rVqBXYAkx5Mk0gW1b80uBd7tAQ6QFvWBPew=",
-      "x86_64-linux": "sha256-MSoFfUbdgFl8EtzP0Ql84l7epAuqrrULy28BrBrrrbU="
+      "aarch64-linux": "sha256-Y9iy4CDSQQALVls4bNBbuiLQuXxIS18RwJzGMeUXSco=",
+      "macos-cli-zip": "sha256-8Ajbfh3T+BpPm6ZdNDWO1NqOMOv5GRJYvvP3vizDLFM=",
+      "macos-dmg": "sha256-3xPKv2O7JZEEXr9ngsF0QOfs7pVWVQ1t0q/+zZg4JbI=",
+      "x86_64-linux": "sha256-7I2MwrkgSsA9E4DOyRDe/fLohQ2T6bh9YYTq/vYZaLQ="
     },
-    "version": "0.18.1"
+    "version": "0.19.1"
   }
 }
